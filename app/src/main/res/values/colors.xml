@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mauden">#FF000000</color>
+    <color name="mautrang">#FFFFFFFF</color>
+    <color name="maunenchinh">#1d1d1d</color>
+    <color name="maunenphu">#4a4a4a</color>
+    <color name="mautexthint">#626262</color>
+    <color name="mautextrequired">#494949</color>
+    <color name="maubtncreate">#ff4b26</color>
+    <color name="maubtnBack">#515151</color>
+
+
+
+</resources>
